@@ -1,0 +1,4 @@
+requests
+loguru
+fake_useragent
+aiohttp
